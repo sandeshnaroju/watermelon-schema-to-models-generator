@@ -1,5 +1,5 @@
 # watermelon-schema-to-models-generator
-This simple python script will convert your `Watermelon` schema.js tables to individual modles, like `User.js` etc.
+This simple python script will convert your `Watermelon`(https://github.com/Nozbe/WatermelonDB) schema.js tables to individual modles, like `User.js` etc.
 
 ### WHAT IS THIS ?
 
