@@ -12,7 +12,7 @@ class User extends Model {
     @field('profile_image') profileImage
     @field('image') image
     @field('gender') gender
-    @field('phonenumber') phonenumber
+    @field('phone_number') phoneNumber
     @field('occupation') occupation
     @field('address') address
     @field('city') city

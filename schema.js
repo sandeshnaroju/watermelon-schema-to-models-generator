@@ -14,7 +14,7 @@ export default appSchema({
         {name: 'profile_image', type: 'string'},
         {name: 'image', type: 'string'},
         {name: 'gender', type: 'string'},
-        {name: 'phonenumber', type: 'string'},
+        {name: 'phone_number', type: 'string'},
         {name: 'occupation', type: 'string'},
         {name: 'address', type: 'string'},
         {name: 'city', type: 'string'},
