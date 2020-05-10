@@ -1,5 +1,5 @@
 # watermelon-schema-to-models-generator
-This simple python script will convert your `Watermelon`(https://github.com/Nozbe/WatermelonDB) schema.js tables to individual modles, like `User.js` etc.
+This simple python script will convert your `Watermelon`(https://github.com/Nozbe/WatermelonDB) `schema.js` tables to individual modles, like `User.js` etc.
 
 ### WHAT IS THIS ?
 
@@ -9,4 +9,7 @@ If you are using `Watermelon db` you, you must be familiar with `schema.js`, fro
 
 `$ python wsm.py schema.js`
 
-Just run the above command with file name as its first argument, that's it. 
+Just run the above command with `schema` file name as its first argument, that's it. It will generate your Models in the current working directory.
+
+#### NOTE
+Tested only using `Python 3.6` and `Python 3.7`
